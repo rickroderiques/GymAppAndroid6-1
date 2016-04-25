@@ -1,4 +1,4 @@
-# GymApp_Android
+# GymAppAndroid6-1
 Gym Application to help track and book sessions.
 
 ## Introduction
